@@ -4,7 +4,8 @@
   "description": "foobar",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/grianbrcom/release-it-test/issues"
   },
-  "homepage": "https://github.com/grianbrcom/release-it-test#readme"
+  "homepage": "https://github.com/grianbrcom/release-it-test#readme",
+  "devDependencies": {
+    "release-it": "^13.6.6"
+  }
 }
