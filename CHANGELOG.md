@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/grianbrcom/release-it-test/compare/1.2.0...1.2.1) (2020-07-28)
+
+
+### Bug Fixes
+
+* asdfasssdfasfasf ([e8cdc5f](https://github.com/grianbrcom/release-it-test/commit/e8cdc5f52eee14bae189e18c4cb9f94a8dbb44f5))
+some other things
+
 # [1.2.0](https://github.com/grianbrcom/release-it-test/compare/1.1.0...1.2.0) (2020-07-28)
 
 
