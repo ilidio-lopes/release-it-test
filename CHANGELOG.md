@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/grianbrcom/release-it-test/compare/1.2.2...1.3.0) (2020-07-29)
+
+
+### Features
+
+* foobar ([17d61aa](https://github.com/grianbrcom/release-it-test/commit/17d61aa6897198c975dd38db01fb108c57735279))
+
 ## [1.2.2](https://github.com/grianbrcom/release-it-test/compare/1.2.0...1.2.2) (2020-07-28)
 
 
