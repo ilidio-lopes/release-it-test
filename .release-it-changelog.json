@@ -7,7 +7,7 @@
   },
   "git": {
     "commitMessage": "Generate changelog for ${version}",
-    "tag": false,
+    "tag": false
   }, 
   "npm": {
           "publish": false
