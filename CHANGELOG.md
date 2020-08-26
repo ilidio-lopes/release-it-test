@@ -1,3 +1,18 @@
+# [1.6.0](https://github.com/grianbrcom/release-it-test/compare/1.5.0...1.6.0) (2020-08-26)
+
+
+### Bug Fixes
+
+* another change in settings ([a3cd6d2](https://github.com/grianbrcom/release-it-test/commit/a3cd6d20856af415970817476b1450ef7ef8c060))
+* change setup-node version ([90f6d3b](https://github.com/grianbrcom/release-it-test/commit/90f6d3b696058fd17409574aac2163545475a883))
+* change workflow to checkout all commits ([7da5589](https://github.com/grianbrcom/release-it-test/commit/7da5589fb950e425b9f0921bcdcfd417632ecd1c))
+* config file ([37e861d](https://github.com/grianbrcom/release-it-test/commit/37e861d17fa4cb22024800ed6f15831ee662a26a))
+
+
+### Features
+
+* update workflow ([e39e2c7](https://github.com/grianbrcom/release-it-test/commit/e39e2c77e9f5f05b86437ffa5bb8a6bb9cf2f870))
+
 ## 1.5.1 (2020-08-26)
 
 
