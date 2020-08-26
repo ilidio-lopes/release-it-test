@@ -1,3 +1,10 @@
+## 1.5.1 (2020-08-26)
+
+
+### Bug Fixes
+
+* another change in settings ([a3cd6d2](https://github.com/grianbrcom/release-it-test/commit/a3cd6d20856af415970817476b1450ef7ef8c060))
+
 # [1.3.0](https://github.com/grianbrcom/release-it-test/compare/1.2.2...1.3.0) (2020-07-29)
 
 
