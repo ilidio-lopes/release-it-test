@@ -12,6 +12,6 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install --global release-it @release-it/conventional-changelog
-    - run: release-it --ci
+    - run: release-it --ci --config .release-it-changelog.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
