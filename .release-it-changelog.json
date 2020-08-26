@@ -1,0 +1,21 @@
+{
+  "hooks": {
+    "after:bump": "git checkout -- package.json package-lock.json"
+  },
+  "github": {
+    "release": false
+  },
+  "git": {
+    "commitMessage": "Generate changelog for ${version}",
+    "tag": false,
+  }, 
+  "npm": {
+          "publish": false
+  },
+  "plugins": {
+    "@release-it/conventional-changelog": {
+      "preset": "angular",
+      "infile": "CHANGELOG.md"
+    }
+  }
+}
