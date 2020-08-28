@@ -1,3 +1,15 @@
+# [0.15.0](https://github.com/grianbrcom/release-it-test/compare/0.14.2...0.15.0) (2020-08-28)
+
+
+### Bug Fixes
+
+* foobar ([54d6bfb](https://github.com/grianbrcom/release-it-test/commit/54d6bfb04e886f60892ba9afe0ad4fc2e8ec4728))
+
+
+### Features
+
+* aefdefs ([3c32983](https://github.com/grianbrcom/release-it-test/commit/3c329833933827255ee95c967f4ecd7b1c1b6d7a))
+
 # Changelog
 All notable changes to the COBOL Language Support extension are documented in this file.
 
