@@ -11,6 +11,7 @@ jobs:
       with:
         node-version: '12'
         check-latest: true
-    - run: npx release-it --ci --config .release-it-release.json
+    - run: npm ci
+    - run: npm run release -- --ci --config .release-it-release.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
