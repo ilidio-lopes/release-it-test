@@ -3,7 +3,7 @@ name: Release
 on: workflow_dispatch
 
 jobs:
-  generate:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -11,7 +11,7 @@ jobs:
       with:
         node-version: '12'
         check-latest: true
-    - run: npm install --global release-it
-    - run: release-it --ci --config .release-it-release.json
+    - run: npm ci
+    - run: npm run release -- --ci --config .release-it-release.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

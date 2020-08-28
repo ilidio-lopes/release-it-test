@@ -1,6 +1,20 @@
 # Changelog
 All notable changes to the COBOL Language Support extension are documented in this file.
 
+## [0.14.2](https://github.com/grianbrcom/release-it-test/compare/0.13.0...0.14.2) (2020-08-28)
+
+
+### Bug Fixes
+
+* another change in settings ([a3cd6d2](https://github.com/grianbrcom/release-it-test/commit/a3cd6d20856af415970817476b1450ef7ef8c060))
+* change setup-node version ([90f6d3b](https://github.com/grianbrcom/release-it-test/commit/90f6d3b696058fd17409574aac2163545475a883))
+
+
+### Features
+
+* Add release script ([19e2f25](https://github.com/grianbrcom/release-it-test/commit/19e2f25767dd8c042d0371f237c86c071b360632))
+* update workflow ([e39e2c7](https://github.com/grianbrcom/release-it-test/commit/e39e2c77e9f5f05b86437ffa5bb8a6bb9cf2f870))
+
 ## [0.13.0](https://github.com/eclipse/che-che4z-lsp-for-cobol/compare/0.12.0...0.13.0) (2020-08-28)
 
 #### Added
