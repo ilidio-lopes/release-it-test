@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to the COBOL Language Support extension are documented in this file.
 
-## [0.16.3](https://github.com/grianbrcom/release-it-test/compare/0.14.2...0.16.3) (2020-08-27)
+## [0.16.3](https://github.com/grianbrcom/release-it-test/compare/0.14.2...0.16.3) (2020-08-28)
 
 ### Bug Fixes
 
