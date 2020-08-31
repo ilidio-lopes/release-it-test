@@ -1,29 +1,14 @@
-# [0.17.0](https://github.com/grianbrcom/release-it-test/compare/0.16.3...0.17.0) (2020-08-31)
-
-
-### Bug Fixes
-
-* bar baz ([429f019](https://github.com/grianbrcom/release-it-test/commit/429f019daaefeb5bdec7ad938da90071af8e8842))
-
-
-### Features
-
-* foobar ([0654a6d](https://github.com/grianbrcom/release-it-test/commit/0654a6d466e8497d6a767ea5dde8e41cecd42639))
-
-# [0.17.0](https://github.com/grianbrcom/release-it-test/compare/0.16.3...0.17.0) (2020-08-31)
-
-
-### Bug Fixes
-
-* bar baz ([429f019](https://github.com/grianbrcom/release-it-test/commit/429f019daaefeb5bdec7ad938da90071af8e8842))
-
-
-### Features
-
-* foobar ([0654a6d](https://github.com/grianbrcom/release-it-test/commit/0654a6d466e8497d6a767ea5dde8e41cecd42639))
-
 # Changelog
 All notable changes to the COBOL Language Support extension are documented in this file.
+
+## [0.17.2](https://github.com/grianbrcom/release-it-test/compare/0.16.3...0.17.2) (2020-08-31)
+
+
+### Bug Fixes
+
+* Hello here! ([429f019](https://github.com/grianbrcom/release-it-test/commit/429f019daaefeb5bdec7ad938da90071af8e8842))
+
+Note: sdfasfasfa.
 
 ## [0.16.3](https://github.com/grianbrcom/release-it-test/compare/0.14.2...0.16.3) (2020-08-28)
 
