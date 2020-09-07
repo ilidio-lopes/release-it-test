@@ -1,6 +1,6 @@
 {
   "name": "release-it-test",
-  "version": "0.17.2",
+  "version": "0.19.4",
   "description": "foobar",
   "main": "index.js",
   "scripts": {
