@@ -1,17 +1,19 @@
-# [0.18.0](https://github.com/grianbrcom/release-it-test/compare/0.17.2...0.18.0) (2020-09-07)
+# Changelog
+All notable changes to the COBOL Language Support extension are documented in this file.
+
+## [0.19.4](https://github.com/grianbrcom/release-it-test/compare/0.17.2...0.19.4) (2020-09-01)
 
 
 ### Bug Fixes
 
+* adfefse wef
 * Fix some ([5923a85](https://github.com/grianbrcom/release-it-test/commit/5923a856ed8fc1104ce2e95f8e640cbba7ea35e8))
 
 
 ### Features
 
+* dfafawefef
 * foobar ([dbf6a7c](https://github.com/grianbrcom/release-it-test/commit/dbf6a7c9c6d21c1f1f10f19d1d537c53706749ac))
-
-# Changelog
-All notable changes to the COBOL Language Support extension are documented in this file.
 
 ## [0.17.2](https://github.com/grianbrcom/release-it-test/compare/0.16.3...0.17.2) (2020-08-31)
 
