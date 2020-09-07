@@ -11,7 +11,7 @@ jobs:
       with:
         node-version: '12'
         check-latest: true
-    - run: npm install --global release-it
+    - run: npm install --global release-it@13.7.0
     - run: export NODE_PATH=`npm root -g`; release-it --ci --config .release-it-release.json
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
